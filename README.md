@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Butteryfly2901
+- 👋 Hi, I’m @ThisDayInMusicHistory
 - 👀 I’m interested in crypto currency and music
-- 🌱 I’m currently learning how to use bitclout
-- 💞️ I’m looking to collaborate on building a website on unstoppable domains called bitcloutcurrency
+- 🌱 I’m currently learning how to help build $deso and next $focus as a content creator 
+- 💞️ I’m looking to collaborate on music and health
+- If there is something i can do on github to add to these projects i would be opened to try and learn 
 - 📫 How to reach me lovelaugh291@gmail.com
 
 <!---
